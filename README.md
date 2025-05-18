@@ -15,7 +15,7 @@ NextJS
 
 Supabase
 
-Vercel
+netlify
 
 ## Installation
 
@@ -89,4 +89,4 @@ ON posts FOR DELETE USING (auth.uid() = author_id);
 ### visit http://localhost:3000/ on your machine to access the blog app
 
 ## Alternatively you can visit the app on the following link
-https://omnifyblog.vercel.app/
+https://venerable-twilight-1ffc02.netlify.app/
